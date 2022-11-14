@@ -1,0 +1,4 @@
+﻿  main.cpp
+  LINK : the 32-bit linker (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe) failed to do memory mapped file I/O on `Debug\main.obj' and is going to restart linking with a 64-bit linker for better throughput
+  LINK : restarting link with 64-bit linker `C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\link.exe'
+  Proiect_Workspace.vcxproj -> D:\Facultate\Anul III\Semestrul I\Sisteme de Operare\Workspace\Proiect_Workspace\Debug\Proiect_Workspace.exe
